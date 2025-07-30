@@ -1,0 +1,6 @@
+# Large data files
+P_kim/data/recipeitems.json
+
+# Python cache
+__pycache__/
+*.pyc
